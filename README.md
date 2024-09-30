@@ -1,5 +1,8 @@
 # make_your_burger
 
+![Hamburger](https://github.com/user-attachments/assets/a38ed5e0-c925-455d-a924-8c497f939556)
+
+
 Site: https://make-your-burger-arnon.vercel.app/
 
 ## Project setup
